@@ -57,10 +57,10 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
+*_Pair Code Connected by BILAL*
 *_Made With 🤍_*
 _════════════════════════╝
-*_Session Connected By Wasi Tech_*
+*_Session Connected By BILAL_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
@@ -70,7 +70,6 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://www.youtube.com/@bilalbabar3365
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Bjbecj0p5lAFIhCxKLoljs
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G
 ╚════════════════════════╝
