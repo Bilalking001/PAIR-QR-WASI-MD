@@ -59,7 +59,7 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
+*_Session Connected By KING Bilal Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
@@ -68,8 +68,7 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@bilalbabar3365
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
+║❒ *Ytube:* _https://www.youtube.com/@bilalbabar336
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Bjbecj0p5lAFIhCxKLoljs
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G
 ╚════════════════════════╝
